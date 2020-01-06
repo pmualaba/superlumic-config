@@ -2,9 +2,6 @@
 - hosts: localhost
   connection: local
 
-  vars_files:
-    - vars/pmualaba-secrets.yml
-
   roles:
     - pmualaba.superlumic-osx-defaults
     - pmualaba.superlumic-homebrew
