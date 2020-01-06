@@ -79,10 +79,10 @@
         - { id: '1039633667', name: 'Irvue' }
 
   vars:
-    - computername: hydra
+    - computername: genesis
     - preferred_shell: zsh  
-    - git_user_name: pmualaba van der Veer
-    - git_user_email: pmualaba@settlemint.com  
+    - git_user_name: pmualaba
+    - git_user_email: patrick.mualaba@live.be
     - osx_defaults:
 # Appearance  
         - domain: 'NSGlobalDomain'
